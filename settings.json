@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "traqnuilo.aternos.me:54987",
+    "ip": "traqnuilo.aternos.me",
     "port": 54987,
     "version": "",
     "try-creative": false
